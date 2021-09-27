@@ -1,0 +1,275 @@
+
+@media (min-width: 1200px) {
+    .h-main-menu {
+        margin-left: 160px !important;
+        margin-right: auto;
+    }
+}
+@media (max-width: 1400px) and (min-width: 992px){
+    .about-item {
+        height: 350px;
+    }
+}
+@media (max-width: 1200px) {
+    .article-content {
+        margin-top: 0;
+    }
+    .about-section {
+        padding: 60px 0;
+    }
+}
+@media (max-width: 992px) {
+    header {
+        position: static;
+    }
+    .h-main-menu {
+        text-align: right;
+    }
+    .header-button {
+        text-align: right;
+    }
+    .banner {
+        background: url(img/banner.jpg) top center no-repeat;
+        background-size: cover;
+        margin-top: 0;
+    }
+    .banner-content h1 {
+        color: #fff;
+        padding: 0 0;
+    }
+    .banner-content .row {
+        padding: 24px 0 0;
+    }
+    .counter-section {
+        padding: 60px 0;
+    }
+    article h1 {
+        font-size: 32px;
+    }
+    article p {
+        font-size: 20px;
+        padding: 10px 0 8px;
+        line-height: 1.5;
+    }
+    .about-section {
+        padding: 40px 0;
+    }
+    .about-title {
+        padding: 0 0 16px;
+    }
+    .about-title h1 {
+        font-size: 32px;
+        padding: 8px 0;
+    }
+    .about-title p {
+        font-size: 20px;;
+        padding: 0;
+    }
+    .about-item {
+        height: 295px;
+    }
+    .apps-section {
+        padding: 45px 0;
+    }
+    .price-title h1 {
+        font-size: 48px;
+        padding: 0 0 20px;
+    }
+    .price-title p {
+        font-weight: 400;
+        font-size: 20px;
+        padding: 0 0 16px;
+    }
+    .pricing-taable {
+        padding: 24px;
+    }
+    .user-section {
+        padding: 35px 0;
+    }
+    .user-section-title h1 {
+        font-size: 32px;
+        padding: 0;
+    }
+    .team-section {
+        padding: 40px 0 0;
+    }
+    .team-members {
+        margin: 0 0 90px;
+    }
+    .contact-section {
+        padding: 32px 0;;
+    }
+    .contact-title {
+        padding: 0 0 0;
+    }
+    .contact-title p {
+        font-size: 18px;
+    }
+    .contact-title h1 {
+        font-size: 32px;
+        padding: 16px 0;
+    }
+    .contact-form {
+        width: 100% !important;
+    }
+    .store {
+        padding: 45px 0;;
+    }
+    .store-content {
+        width: 100% !important;
+    }
+    .store-content p {
+        font-size: 21px;
+        padding: 0;
+    }
+    .store-content h1 {
+        font-size: 32px;
+    }
+    .store-button {
+        padding: 16px 0 0;
+    }
+}
+@media (max-width: 768px) {
+    .artical-section {
+        padding: 30px 0;
+    }
+    .about-item {
+        height: 255px;
+    }
+    .img-3 {
+        width: 77%;
+    }
+    .a-img-2 {
+        left: -10px;
+    }
+    .a-img-3 {
+        left: 0;
+    }
+    .apps-section {
+        padding: 25px 0;
+    }
+    .apps-title {
+        padding: 0 0 24px;
+    }
+    .pricing-section {
+        padding: 32px 0;
+    }
+    .price-title h1 {
+        font-size: 32px;
+        padding: 0px 0 16px;
+    }
+    .price-title {
+        padding: 0;
+    }
+    .pricing-taable {
+        padding: 32px;
+        margin: 0 0 16px;
+    }
+    .pricing-taable h1 {
+        font-size: 32px;
+    }
+    .pricing-taable p {
+        font-size: 18px;
+        padding: 16px 0 0;
+        font-weight: 400;
+    }
+    .pricing-taable ul {
+        padding: 0;
+    }
+    .pricing-taable ul li {
+        padding: 8px 0;
+        font-weight: 400;
+    }
+    .pricing-taable ul li span {
+        font-size: 18px;;
+        margin-right: 8px;
+    }
+    .user-section-title p {
+        font-size: 18px;
+        font-weight: 400;
+        width: 100%;
+    }
+    .team-section {
+        padding: 30px 0 0;
+    }
+    .team-title h1 {
+        padding: 0;
+    }
+    .team-title p {
+        padding: 0 0 16px;
+    }
+    .store {
+        padding: 24px 0;;
+    }
+    footer p {
+        font-size: 16px;
+    }
+}
+@media (max-width: 576px) {
+    .h-logo {
+        margin: 0 !important;
+    }
+    .h-logo span {
+        font-size: 1.2rem;
+        margin-left: 0;
+        top: 0px;
+    }
+    .banner {
+        padding: 50px 0;
+    }
+    .banner-content p {
+        font-size: 1rem;
+        font-weight: 500;
+        margin-bottom: 0;
+    }
+    .banner-content h1 {
+        font-size: 32px;
+    }
+    .banner-content .row {
+        padding: 10px 0 0;
+    }
+    .banner-content .form-control {
+        padding: 10px 24px;
+    }
+    .banner-content .b-btn {
+        padding: 10px 0;
+        margin: 16px 0 0 0 !important;
+    }
+    .counter-section {
+        padding: 40px 0;
+    }
+    .count-item h1 {
+        font-size: 3rem;
+        margin-bottom: 0;
+    }
+    .artical-section {
+        padding: 30px 0;
+    }
+    .about-content {
+        padding: 16px;
+    }
+    .about-content h3 {
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .about-content p {
+        font-size: 15px;
+        padding: 10px 0 0;
+    }
+    .apps-title h1 {
+        font-size: 32px;
+    }
+    .price-title h1 {
+        padding: 0;
+    }
+    .price-title p {
+        font-size: 16px;
+        padding: 0;
+    }
+    .team-title h1 {
+        font-size: 24px;
+    }
+    .p-btn {
+        padding: 15px 0;
+    }
+}
